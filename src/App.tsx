@@ -34,7 +34,7 @@ function App() {
 
       {/* Balance */}
       <div className="mb-6 sm:mb-8">
-        <h1 className="text-3xl sm:text-4xl font-bold mb-4 sm:mb-6">$32,000</h1>
+        <h1 className="text-3xl sm:text-4xl font-bold mb-4 sm:mb-6">$32,568.46</h1>
       </div>
 
       {/* Action Buttons */}
@@ -85,8 +85,8 @@ function App() {
           </div>
         </div>
         <div className="text-right">
-          <div className="text-sm sm:text-base">$32,000</div>
-          <div className="text-gray-400 text-xs sm:text-sm">0.484848 BTC</div>
+          <div className="text-sm sm:text-base">$32,568.46</div>
+          <div className="text-gray-400 text-xs sm:text-sm">0.493461 BTC</div>
         </div>
       </div>
 
